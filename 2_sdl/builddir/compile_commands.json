@@ -1,0 +1,8 @@
+[
+  {
+    "directory": "/home/vega/Coding/trying-meson/2_sdl/builddir",
+    "command": "cc -Isdlprog@exe -I. -I.. -I/usr/include/SDL2 -fdiagnostics-color=always -pipe -D_FILE_OFFSET_BITS=64 -Wall -Winvalid-pch -g -D_REENTRANT -MD -MQ 'sdlprog@exe/main.c.o' -MF 'sdlprog@exe/main.c.o.d' -o 'sdlprog@exe/main.c.o' -c ../main.c",
+    "file": "../main.c",
+    "output": "sdlprog@exe/main.c.o"
+  }
+]
